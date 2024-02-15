@@ -5,4 +5,4 @@
 <br>
 
 > 자세한 내용은 티스토리 블로그를 참조해주세요
-+ ![플러터(Flutter) package_info_plus 패키지로 앱 패키지 정보 가져오기](https://baka9131.tistory.com/21)
++ [플러터(Flutter) package_info_plus 패키지로 앱 패키지 정보 가져오기](https://baka9131.tistory.com/21)
