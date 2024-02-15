@@ -1,16 +1,5 @@
-# package_info_plus_usage
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 플러터 Package Info Plus 패키지 사용법
+<img width="344" alt="image" src="https://github.com/baka9131/package-info-plus-usage/assets/93738662/5f12ab58-96db-45ca-8113-33cf46ddbc79">
+</br>
+> 자세한 내용은 티스토리 블로그를 참조해주세요
++ https://baka9131.tistory.com/21
